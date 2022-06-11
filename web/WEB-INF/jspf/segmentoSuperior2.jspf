@@ -1,3 +1,13 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
-<h2>Hello World!</h2>
+<div>
+    <div class="miEncabezado">
+        Sistema de Registro de Equipos de Proteccion Personal(EPP)
+        <div class="miSubEncabezado a1">
+            <a href="menuPrincipal.jsp"> <b><em><font color="#FFFFCC">Inicio</font></em></b></a>
+        </div>
+    </div>
+    <div class="miContenido">
+        
+    </div>
+</div>
