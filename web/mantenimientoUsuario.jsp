@@ -5,7 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@include file="verificaSesion.jsp"%>
+<%@include file="verificarSesion.jsp"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -32,6 +32,6 @@
                 <a href="menuPrincipal.jsp" class="btn btn-small btn-danger ">Regresar</a>
             </center>  
         </div>
-          <%@include file="WEB-INF/jspf/segmentoInferior.jspf"%>
+        <%@include file="WEB-INF/jspf/segmentoInferior.jspf"%>
     </body>
 </html>

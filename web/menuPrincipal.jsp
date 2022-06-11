@@ -1,5 +1,5 @@
 <%@page contentType="text/html" session="true" pageEncoding="UTF-8"%>
-<%@include file="verificaSesion.jsp" %>
+<%@include file="verificarSesion.jsp" %>
 <!DOCTYPE html>
 <html>
     <head>

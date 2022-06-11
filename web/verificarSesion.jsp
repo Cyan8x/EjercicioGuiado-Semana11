@@ -1,8 +1,3 @@
-<%-- 
-    Document   : verificaSesion
-    Created on : 11 jun. 2022, 12:30:09
-    Author     : Jeanpierre-Fernandez
---%>
 
 <%@page session="true" %>
 <!DOCTYPE html>
